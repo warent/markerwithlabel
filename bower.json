@@ -1,0 +1,30 @@
+{
+  "name": "markerwithlabel",
+  "main": "markerwithlabel.js",
+  "version": "1.0.1",
+  "authors": [
+    "Gary Little"
+  ],
+  "description": "Google Maps add-on package created by Gary Little. Ported to Bower for ease of installation by Wyatt Arent",
+  "moduleType": [],
+  "keywords": [
+    "marker",
+    "with",
+    "label",
+    "google",
+    "maps",
+    "gary",
+    "little",
+    "marc",
+    "ridey"
+  ],
+  "license": "Apache License 2.0",
+  "homepage": "luxcentral.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
